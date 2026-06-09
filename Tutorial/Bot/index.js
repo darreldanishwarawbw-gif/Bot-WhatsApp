@@ -2,7 +2,7 @@
 
   Made By Lenwy
   Base : Lenwy
-  WhatsApp : wa.me/6283829814737
+  WhatsApp : wa.me/6285643085042
   Telegram : t.me/ilenwy
   Youtube : @Lenwy
 
@@ -117,4 +117,4 @@ async function connectToWhatsApp() {
 }
 
 // Jalankan Koneksi WhatsApp
-connectToWhatsApp()
+connectToWhatsApp(6285643085042) 
